@@ -4,7 +4,7 @@ class Base
 {
     public:
     int a;
-   virtual void show()
+   virtual void show()//virtual function
     {
         cout<<"1:Hello ! This is Base class function ";
     }
